@@ -20,7 +20,7 @@ namespace Pr12_Book.Classes
             List<Author> allAuthors = new List<Author>();
             allAuthors.Add(new Author(1, "Виктор Пелевин"));
             allAuthors.Add(new Author(2, "Александра Маринина"));
-            allAuthors.Add(new Author(2, "Ольга Герр"))ж
+            allAuthors.Add(new Author(2, "Ольга Герр"));
             return allAuthors;
         }
     }
