@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pr12_Book.Classes
 {
-    internal class Author
+    public class Author
     {
         public int Id { get; set; }
         public string FIO { get; set; }
